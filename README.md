@@ -54,7 +54,7 @@ Build a classifier that catches most diabetic patients (high recall) while minim
 - Lifestyle factors (smoking, physical activity)  
 - Medical history (high cholesterol, stroke, heart disease)  
 
-**About the balanced dataset**: The original CDC data has ~14% diabetes prevalence. We've balanced this to 50-50 by downsampling the majority class—a valid production strategy when you have sufficient minority samples. This lets you focus on neural network fundamentals first, with more detail on this decision in the notebook.
+**About the balanced dataset**: The original CDC data has ~14% diabetes prevalence. We've balanced this to 50-50 by downsampling the majority class - a valid production strategy when you have sufficient minority samples. This lets you focus on neural network fundamentals first, with more detail on this decision in the notebook.
 
 ---
 
@@ -117,7 +117,7 @@ Your task is to build and optimize a multi layer perceptron (MLP) classifier for
 
 Within the `diabetes_prediction_mlp.ipynb` notebook, you will find **TODOs** guiding you through each step.
 
-**IMPORTANT:** The notebook provides comprehensive guidance with hints and reference links for each TODO. Read all markdown explanations carefully—they contain critical context for healthcare applications.
+**IMPORTANT:** The notebook provides comprehensive guidance with hints and reference links for each TODO. Read all markdown explanations carefully-they contain critical context for healthcare applications.
 
 ---
 
