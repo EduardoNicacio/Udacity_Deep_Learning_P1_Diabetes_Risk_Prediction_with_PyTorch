@@ -92,7 +92,7 @@ print(f"PyTorch version: {torch.__version__}")
 
 ### Project Structure
 
-```
+```txt
 ├── starter-kit/
 │   │
 │   ├── diabetes_prediction_mlp.ipynb - Main project notebook (all work done here)
